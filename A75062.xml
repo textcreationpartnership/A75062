@@ -1,0 +1,1756 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Abstract of the Scripture-catechism accommodated by the author, to the use of children and ignorant people / newly corrected by the author himself.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 63 KB of XML-encoded text transcribed from 39 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75062</idno>
+            <idno type="STC">Wing A142B</idno>
+            <idno type="STC">ESTC R42630</idno>
+            <idno type="EEBO-CITATION">38875494</idno>
+            <idno type="OCLC">ocm 38875494</idno>
+            <idno type="VID">152159</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75062)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152159)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2281:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Abstract of the Scripture-catechism accommodated by the author, to the use of children and ignorant people / newly corrected by the author himself.</title>
+               </titleStmt>
+               <extent>72 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>Printed in the Year, 1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"With approbation."</note>
+                  <note>Imperfect: tightly bound, with loss of text. Best copy available for photographing.</note>
+                  <note>Reproduction of original in: Lambeth Palace Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Catechisms.</term>
+               <term>Catechisms, English.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152159:1" rendition="simple:additions"/>
+            <p>AN ABSTRACT OF THE Scripture-Catechiſm: Accommodated by the Au<g ref="char:EOLhyphen"/>thor, to the Uſe of Children, and Ignorant People.</p>
+            <p>Newly Corrected by the Author himſelf.</p>
+            <q>
+               <bibl>
+                  <hi>S. MARK 10.14.</hi>
+               </bibl>
+               <p>Suffer little Children to come un<g ref="char:EOLhyphen"/>to me: for the Kingdom of God is for ſuch.</p>
+            </q>
+            <p>With Approbation.</p>
+            <p>Printed in the Year, 1675.</p>
+         </div>
+         <div type="alphabet">
+            <pb facs="tcp:152159:4" rendition="simple:additions"/>
+            <head>The <hi>ABC.</hi>
+            </head>
+            <p>
+               <g ref="char:cross">✚</g> A B C D E F G H I K L M N O P Q R S T U W X Y Z.</p>
+            <p>
+               <g ref="char:cross">✚</g> A a b c d e f g h i k l m n o p q r ſ s t v u w x y z &amp; Amen.</p>
+            <p>
+               <g ref="char:cross">✚</g> 
+               <hi>A B C D E F G H I K L M N O P Q R S T U W X Y Z.</hi>
+            </p>
+            <p>
+               <g ref="char:cross">✚</g> 
+               <hi>A a b c d e f g h i k l m n o p q r ſ s t v u w x y z &amp;, Amen.</hi>
+            </p>
+            <p>1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 30, 40, 50, 60, 70, 80, 90, 100.</p>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="chapter">
+            <pb n="3" facs="tcp:152159:4"/>
+            <head>
+               <hi>CHAP. I.</hi> What a Chriſtian is, and of the Bleſſed <hi>Trinity.</hi>
+            </head>
+            <p>Q. CHild, <hi>What Religion are you of?</hi>
+            </p>
+            <p>
+               <hi>A. Sir,</hi> by the Grace of God I am a <hi>Chriſtian.</hi>
+            </p>
+            <p>Q. <hi>Whom underſtand you by a</hi> Chriſtian?</p>
+            <p>
+               <hi>A.</hi> Him that inwardly believes, and outwardly profeſſes the Faith and Law of <hi>Chriſt.</hi>
+            </p>
+            <p>Q. <hi>When we are obliged to make <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> outward profeſſion of our Faith?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> As often as Gods honour, our own, or neighbours good re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ireth it: <hi>For if we deny Chriſt <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>efore men, he will deny us before <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s Father,</hi> S. Mat. 10.</p>
+            <p>Q. <hi>In what doth the Faith and <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of</hi> Chriſt <hi>chiefly conſiſt?</hi>
+            </p>
+            <pb facs="tcp:152159:3"/>
+            <pb facs="tcp:152159:3"/>
+            <pb facs="tcp:152159:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="3" facs="tcp:152159:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="4" facs="tcp:152159:5"/>
+            <p>
+               <hi>A.</hi> In two principal <hi>myſteri<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> namely, the <hi>
+                  <g ref="char:V">Ʋ</g>nity</hi> and <hi>Trinity</hi> 
+               <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> God, the <hi>Incarnation,</hi> and <hi>De<gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> of our <hi>Saviour.</hi>
+            </p>
+            <p>
+               <hi>Q. What means the</hi> Unity <hi>
+                  <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> Trinity <hi>of God?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It means, that in God the<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> is but one only Divine Natu<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> though there be three Perſons, <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Father, Son,</hi> and <hi>Holy Ghoſt.</hi>
+            </p>
+            <p>Q. <hi>Why are there but three P<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ſons only?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe the Father hath <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> beginning, and proceedeth f<gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> no other Perſon, the <hi>Son</hi> proce<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>eth from the <hi>Father,</hi> the <hi>
+                  <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Ghoſt</hi> proceedeth from the F<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> and the <hi>Son,</hi> and more proce<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> in God, there cannot be.</p>
+            <p>Q. <hi>Why are the three Perſon <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> one God?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe they have bu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and the ſame Nature, one a<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:152159:5"/>ſame Goodneſs, one and the ſame Wiſdom.</p>
+            <p>Q. <hi>What means the Incarnation and Death of our Saviour?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It meaneth that the ſecond Perſon of the moſt bleſſed <hi>Trinity was made man,</hi> and died upon the <hi>Croſs</hi> to ſave us.</p>
+            <p>Q. <hi>In what are theſe two myſte<g ref="char:EOLhyphen"/>ries contained?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> In the ſign of the Croſs, as it is made by <hi>Catholicks.</hi>
+            </p>
+            <p>Q. <hi>How ſhew you that?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe when we put our right hand to our head, ſaying: <hi>In the name,</hi> we ſignifie <hi>one God,</hi> and when we make the ſign of the <hi>Croſs,</hi> ſaying, <hi>Of the Father,</hi> and of the <hi>Son,</hi> and of the <hi>Holy Ghoſt,</hi> A<g ref="char:EOLhyphen"/>men; we ſignifie <hi>Trinity,</hi> or <hi>three Perſons.</hi>
+            </p>
+            <p>Q. <hi>How does the ſign of</hi> the Croſs <hi>repreſent the</hi> Incarnation <hi>and</hi> Death <hi>of our</hi> Saviour?</p>
+            <pb n="6" facs="tcp:152159:6"/>
+            <p>
+               <hi>A.</hi> By putting us in mind that he was made man to die upon the <hi>Croſs</hi> for us.</p>
+         </div>
+         <div n="2" type="chapter">
+            <head>
+               <hi>CHAP. II.</hi> Faith expounded.</head>
+            <p>Q. <hi>WHat is</hi> Faith?</p>
+            <p>
+               <hi>A.</hi> It is the gift of God infus'd into our Souls, by which we firmly believe all thoſe things, which God hath any way revealed to us.</p>
+            <p>Q. <hi>Why muſt we firmly believe a<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> matters of</hi> Faith?</p>
+            <p>
+               <hi>A.</hi> Becauſe God hath taught them, who neither can deceive, not be deceived.</p>
+            <p>Q. <hi>How are you ſure that God hath taught them all?</hi>
+            </p>
+            <pb n="7" facs="tcp:152159:6"/>
+            <p>
+               <hi>A.</hi> By the teſtimony of the ho<g ref="char:EOLhyphen"/>ly <hi>Catholick Church.</hi>
+            </p>
+            <p>Q. <hi>It is enough to believe all that is written in the</hi> Bible?</p>
+            <p>
+               <hi>A.</hi> No, it is not, for we muſt alſo believe the <hi>Creed,</hi> and <hi>Apo<g ref="char:EOLhyphen"/>ſtolick Traditions,</hi> which are not there.</p>
+            <p>Q. <hi>What</hi> Faith <hi>will ſuffice to ſave a man?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Faith working by charity, <hi>Galat. chap.</hi> 5. <hi>ver.</hi> 6.</p>
+            <p>Q. <hi>What Vice is oppoſite to</hi> Faith?</p>
+            <p>
+               <hi>A. Hereſie,</hi> which is an obſti<g ref="char:EOLhyphen"/>nate errour in matters of Faith.</p>
+         </div>
+         <div n="3" type="chapter">
+            <head>
+               <hi>CHAP. III.</hi> The Creed expounded.</head>
+            <p>Q. <hi>WHat is the Creed?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is the ſum of our belief.</p>
+            <pb n="8" facs="tcp:152159:7"/>
+            <p>
+               <hi>Who made it?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The twelve <hi>Apoſtles.</hi>
+            </p>
+            <p>Q. <hi>What does the</hi> Creed <hi>contain?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The chief things which we are bound to believe of God, and his Church.</p>
+            <div n="1" type="part">
+               <head>The firſt Article.</head>
+               <p>Q. <hi>VVHat is the firſt Article of the</hi> Creed?</p>
+               <p>
+                  <hi>A. I believe in God the Father Almighty, Creator of Heaven and Earth.</hi>
+               </p>
+               <p>Q. <hi>What ſignifies,</hi> I believe in God?</p>
+               <p>
+                  <hi>A.</hi> It ſignifies that I moſt firm<g ref="char:EOLhyphen"/>ly hold there is a God, and am pi<g ref="char:EOLhyphen"/>ouſly affected to him, as to my chiefeſt good, and laſt end, with hope in him.</p>
+               <p>Q. <hi>What ſignifies the word</hi> Fa<g ref="char:EOLhyphen"/>ther.</p>
+               <p>
+                  <hi>A.</hi> The firſt Perſon of the <hi>bleſ<g ref="char:EOLhyphen"/>ſed
+<pb n="9" facs="tcp:152159:7"/>Trinity,</hi> who is by nature the Father of the ſecond, by Adoption, the Father of all good <hi>Chriſtians,</hi> and by Creation, of all <hi>Creatures.</hi>
+               </p>
+               <p>Q. <hi>What means the Word,</hi> Al<g ref="char:EOLhyphen"/>mighty?</p>
+               <p>
+                  <hi>A.</hi> It means that God is able to do all things, which he pleaſes, and as he pleaſes; and therefore we muſt doubt nothing that he teacheth us.</p>
+               <p>Q. <hi>What ſignifies,</hi> Creator of Heaven and Earth?</p>
+               <p>
+                  <hi>A.</hi> It ſignifies, that God made Heaven and Earth, with all things in them of nothing, by his holy word, <hi>Gen.</hi> 1.</p>
+               <p>Q. <hi>Why did God make the</hi> An<g ref="char:EOLhyphen"/>gels?</p>
+               <p>
+                  <hi>A.</hi> To be partakers of his glo<g ref="char:EOLhyphen"/>ry, and be our <hi>Guardians, their Angels</hi> (ſaith Chriſt) <hi>which are in Heaven always ſee the face of my</hi>
+                  <pb n="10" facs="tcp:152159:8"/>Father, <hi>which is in Heaven,</hi> Mat. 18. ver. 10.</p>
+               <p>Q. <hi>When, and to what likeneſs did God make man?</hi>
+               </p>
+               <p>
+                  <hi>A. On the ſixth day, and to his own Image, and likeneſs,</hi> Gen. 1.</p>
+               <p>Q. <hi>In what doth that likeneſs conſiſt?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> In this, that as God is an in<g ref="char:EOLhyphen"/>tellectual and immortal Spirit, ſo is the man in his Soul. And as in God there is but one Nature, and three Perſons, ſo in man there is but one Soul, and three Powers, Will, Memory, and Underſtan<g ref="char:EOLhyphen"/>ding.</p>
+               <p>Q. <hi>Why did God make man?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> To ſerve him in this life, and to enjoy him in the next.</p>
+               <p>Q. <hi>Why did he make all other things?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> For mans uſe and benefit.</p>
+            </div>
+            <div n="2" type="part">
+               <pb n="11" facs="tcp:152159:8"/>
+               <head>The ſecond Article.</head>
+               <p>Q. <hi>WHat is the ſecond</hi> Article?</p>
+               <p>A. <hi>And in Jeſus Chriſt his only Son our Lord.</hi>
+               </p>
+               <p>Q. <hi>What means this Article?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It means, that we alſo be<g ref="char:EOLhyphen"/>lieve, and put our truſt in <hi>Jeſus Chriſt,</hi> true God, and Man, the ſe<g ref="char:EOLhyphen"/>cond perſon of the <hi>bleſſed Trinity.</hi>
+               </p>
+               <p>Q. <hi>Why was he made man?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> To redeem and ſave us.</p>
+               <p>Q. <hi>What ſignifies the Name</hi> Jeſus?</p>
+               <p>
+                  <hi>A.</hi> A <hi>Saviour,</hi> S. <hi>Mat. ch.</hi> 1. <hi>v.</hi> 21.</p>
+               <p>Q. <hi>Is any ſpecial honour due to this Name?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> There is, <hi>In the Name of Je<g ref="char:EOLhyphen"/>ſus every knee ſhall bow,</hi> Phil. 10.</p>
+               <p>Q. <hi>What ſignifies the Name</hi> Chriſt?</p>
+               <p>
+                  <hi>A.</hi> Anointed.</p>
+               <p>Q. <hi>With what was he anointed?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> With all the fulneſs of Di<g ref="char:EOLhyphen"/>vine grace.</p>
+               <p>Q. <hi>What mean you by his only Son?</hi>
+               </p>
+               <pb n="12" facs="tcp:152159:9"/>
+               <p>
+                  <hi>A.</hi> I mean that <hi>Jeſus Chriſt</hi> is the only natural Son of God, born of his Father without a <hi>Mother,</hi> as he is God, &amp; Lord of us, &amp; all things.</p>
+            </div>
+            <div n="3" type="part">
+               <head>The third Article.</head>
+               <p>Q. <hi>WHat is the third Article?</hi>
+               </p>
+               <p>A. <hi>Who was conceived by the Holy Ghoſt, born of the Vir<g ref="char:EOLhyphen"/>gin</hi> Mary.</p>
+               <p>Q. <hi>What underſtand you by this Article?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> I underſtand that God the Son took fleſh of the <hi>bleſſed Virgin Ma<g ref="char:EOLhyphen"/>ry,</hi> not by humane generation, but by the work of the <hi>Holy Ghoſt.</hi>
+               </p>
+               <p>Q. <hi>What means born of the Ver<g ref="char:EOLhyphen"/>gin Mary?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It means, that Chriſt was born of her in <hi>Bethlehem,</hi> on <hi>Chriſtmaſs-day,</hi> ſhe ſtill remaining a pure Virgin.</p>
+               <p>Q <hi>What doth the birth of</hi> Chriſt <hi>avail us?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It perfecteth us in Faith, Hope, and Charity.</p>
+            </div>
+            <div n="4" type="part">
+               <pb n="13" facs="tcp:152159:9"/>
+               <head>The fourth Article.</head>
+               <p>Q. <hi>WHat is the fourth article?</hi>
+               </p>
+               <p>A. <hi>Suffered under</hi> Pontius Pilate, <hi>was crucified, dead &amp; buried.</hi>
+               </p>
+               <p>Q. <hi>What underſtand you by this?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> I underſtand that <hi>Chriſt,</hi> af<g ref="char:EOLhyphen"/>ter a moſt painful life of three and thirty years, ſuffered moſt bitter torments under the wicked Preſi<g ref="char:EOLhyphen"/>dent, <hi>Pontius Pilate.</hi>
+               </p>
+               <p>Q. <hi>What were theſe torments?</hi>
+               </p>
+               <p>A. <hi>His bloody ſweat, his whipping at the pillar, his purple Garments, his crowning with thorns, his ſcepter of a Reed, his carriage of the Croſs,</hi> &amp;c.</p>
+               <p>Q. <hi>What means the word,</hi> was crucified?</p>
+               <p>
+                  <hi>A.</hi> It means, that he was nailed to a diſgraceful <hi>Croſs,</hi> betwixt two Thieves for our offences, on <hi>Good-Fryday.</hi>
+               </p>
+               <p>Q. <hi>What ſignifies,</hi> dead &amp; buried?</p>
+               <p>
+                  <hi>A.</hi> It ſignifies that <hi>Chriſt</hi> ſuffer<g ref="char:EOLhyphen"/>red
+<pb n="14" facs="tcp:152159:10"/>for us a true &amp; real death, and was buried with honour, as the Prophet <hi>Iſaiah</hi> foretold.</p>
+            </div>
+            <div n="5" type="part">
+               <head>The fifth Article.</head>
+               <p>Q. <hi>WHat is the fifth Article?</hi>
+               </p>
+               <p>
+                  <hi>A. He deſcended into Hell, the third day he roſe again from the dead.</hi>
+               </p>
+               <p>Q. <hi>What meaneth,</hi> He deſcend<g ref="char:EOLhyphen"/>ed into Hell?</p>
+               <p>
+                  <hi>A.</hi> It means, that as ſoon as <hi>Chriſt</hi> was dead, his bleſſed Soul deſcended into <hi>Limbo,</hi> to free the <hi>holy</hi> Fathers that were there.</p>
+               <p>Q. <hi>What ſignifies,</hi> On the 3d. day he roſe again from the dead?</p>
+               <p>
+                  <hi>A.</hi> It ſignifies, that when <hi>Chriſt</hi> had been dead part of three days, on the <hi>third day</hi> (being <hi>Eaſter-Sunday</hi>) he raiſed up his bleſſed body from the dead.</p>
+               <p>Q. <hi>What benefit have we by this belief.</hi>
+               </p>
+               <pb n="15" facs="tcp:152159:10"/>
+               <p>
+                  <hi>A.</hi> It comfirms our faith, and hope, that we ſhall alſo riſe again from death, by, and with <hi>Jeſus.</hi>
+               </p>
+            </div>
+            <div n="6" type="part">
+               <head>The ſixth Article.</head>
+               <p>Q <hi>WHat is the ſixth Article?</hi>
+               </p>
+               <p>
+                  <hi>A. He aſcended into Heaven, ſitteth at the right hand of God the Father Almighty.</hi>
+               </p>
+               <p>Q. <hi>What means,</hi> he aſcended into Heaven?</p>
+               <p>
+                  <hi>A.</hi> That when <hi>Chriſt</hi> had con<g ref="char:EOLhyphen"/>verſed forty days on earth with his Diſciples after his Reſurrection, then he aſcended triumphant into Heaven in their ſight.</p>
+               <p>Q. <hi>On what day?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> On <hi>aſcention Day,</hi> and from the top of <hi>Mount Olivet.</hi>
+               </p>
+               <p>Q. <hi>Why is it ſaid,</hi> into Heaven?</p>
+               <p>
+                  <hi>A.</hi> To draw our hearts to Hea<g ref="char:EOLhyphen"/>ven after him.</p>
+               <p>Q. <hi>What underſtand you by</hi> ſit<g ref="char:EOLhyphen"/>eth at the right hand of God.</p>
+               <pb n="16" facs="tcp:152159:11"/>
+               <p>
+                  <hi>A.</hi> Not that God the Father hath any hands, for he is a pure ſpirit, &amp; without body, but that <hi>Chriſt</hi> as God, is equal to his Father in all things.</p>
+            </div>
+            <div n="7" type="part">
+               <head>The ſeventh Article.</head>
+               <p>Q. <hi>WHat is the ſeventh Article?</hi>
+               </p>
+               <p>A. <hi>From thence he ſhall come to judge the quick and the dead.</hi>
+               </p>
+               <p>Q. <hi>What underſtand you by this?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> I underſtand, that <hi>Chriſt</hi> ſhall come from Heaven at the laſt day to judge all men according to their works.</p>
+               <p>Q. <hi>Why is a general judgment re<g ref="char:EOLhyphen"/>quiſite, ſeeing every one receiveth his particular Judgment at his death?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> That as <hi>Chriſt</hi> was reject<g ref="char:EOLhyphen"/>ed by many, ſo he may be glorified before all.</p>
+               <p>Q. <hi>In what manner will he come to Judgment?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> In great power and Majeſty,
+<pb n="17" facs="tcp:152159:11"/>tended by many Legions of <hi>Angels.</hi>
+               </p>
+               <p>Q. <hi>What are the things that he will judge?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> All our thoughts, words, and works.</p>
+               <p>Q. <hi>Who will accuſe us?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The Devils, and our own guilty conſciences.</p>
+               <p>Q. <hi>What will be the ſentence of the reprobate?</hi>
+               </p>
+               <p>A. <hi>Go ye curſed into eternal fire which hath been prepared for the de<g ref="char:EOLhyphen"/>vil and his Angels.</hi>
+               </p>
+               <p>Q. <hi>What ſhall be the ſentence of the</hi> Elect?</p>
+               <p>A. <hi>Come O ye bleſſed of my Fa<g ref="char:EOLhyphen"/>ther, and receive ye the Kingdome which is prepared for you,</hi> &amp;c. <hi>Mat. c.</hi> 25. <hi>v.</hi> 34.</p>
+            </div>
+            <div n="8" type="part">
+               <head>The Eighth Article.</head>
+               <p>Q. <hi>WHat is the eighth Ar<g ref="char:EOLhyphen"/>ticle?</hi>
+               </p>
+               <p>A. <hi>I believe in the Holy Ghoſt.</hi>
+               </p>
+               <pb n="18" facs="tcp:152159:12"/>
+               <p>Q. <hi>What means this Article?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It means, that we alſo believe and put our truſt in the third Per<g ref="char:EOLhyphen"/>ſon of the <hi>bleſſed Trinity,</hi> who pro<g ref="char:EOLhyphen"/>ceedeth from the Father and the Son, being the ſame God with them, and deſcended to us on <hi>Whitſunday in fiery Tongues.</hi>
+               </p>
+            </div>
+            <div n="9" type="part">
+               <head>The nineth Article</head>
+               <p>Q. <hi>WHat is the ninth</hi> Article?</p>
+               <p>
+                  <hi>A. I believe in the Ho<g ref="char:EOLhyphen"/>ly Catholick Church, the communion of Saints.</hi>
+               </p>
+               <p>Q. <hi>What underſtand you by this?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> I underſtand that <hi>Chriſt</hi> hath a <hi>Church</hi> on earth, that this <hi>Church</hi> is but one, and that we are bound to believe her, in all things belonging to faith.</p>
+               <p>Q. <hi>Why are we bound to believe her?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Becauſe God hath command<g ref="char:EOLhyphen"/>ed it, and <hi>ſhe is the Pillar and ground
+<pb n="19" facs="tcp:152159:12"/>of truth,</hi> 1 Tim. 3. nor can ſhe erre in Faith.</p>
+               <p>Q. <hi>Why may not a well-meaning man be ſaved in any Church, or Re<g ref="char:EOLhyphen"/>ligion?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Becauſe there is but <hi>one Lord, one Faith, one Baptiſm, the</hi> 4th. <hi>to</hi> Epheſ. 5.</p>
+               <p>Q. <hi>What is the</hi> Church?</p>
+               <p>
+                  <hi>A.</hi> It is the Congregation of the Faithful under <hi>Chriſt Jeſus</hi> their in<g ref="char:EOLhyphen"/>viſible Head, and his Vicar on earth, the Pope.</p>
+               <p>Q. <hi>What are the marks of the Church?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> To be <hi>one,</hi> to be <hi>holy,</hi> to be <hi>al<g ref="char:EOLhyphen"/>ways viſible,</hi> and to <hi>be Apoſtolical.</hi>
+               </p>
+               <p>Q. <hi>What think you then of ſuch as accuſed the</hi> Church <hi>of</hi> God <hi>of I<g ref="char:EOLhyphen"/>dolatry, and errors in faith?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> I think them to be Hereticks or Infidels: <hi>He that will not hear the Church, let him be unto thee as a Heathen or a Publican,</hi> St. <hi>Mat. c.</hi> 18. <hi>v.</hi> 18.</p>
+               <pb n="20" facs="tcp:152159:13"/>
+               <p>Q. <hi>What means the word Catholick?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It ſignifies as much as <hi>
+                     <g ref="char:V">Ʋ</g>niver<g ref="char:EOLhyphen"/>ſal,</hi> and that the true Church hath continued from <hi>Chriſt</hi> to this time, and ſhall continue to the end of the world, mauger the Devil.</p>
+               <p>Q. <hi>What elſe?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> That the true Church hath, &amp; ſhall be ſpread over <hi>all Nations.</hi>
+               </p>
+               <p>Q. <hi>What means the</hi> Communi<g ref="char:EOLhyphen"/>on of Saints?</p>
+               <p>
+                  <hi>A.</hi> It means, that <hi>Catholicks do</hi> all <hi>Communicate</hi> in the ſame Faith, Sa<g ref="char:EOLhyphen"/>craments, and Sacrifice, as alſo in the merits of one another.</p>
+               <p>Q. <hi>What elſe?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> That the faithful on Earth Communicate with the Saints and Angels in Heaven, we by praiſing, and praying to them, and they by praying for us. <hi>There ſhall be joy be<g ref="char:EOLhyphen"/>fore the angels of God for one ſinner doing penance,</hi> St. Luke 15. v. 10.</p>
+               <pb n="21" facs="tcp:152159:13"/>
+               <p>Q. <hi>Is it no diſhonour to God for us to pray to</hi> Saints <hi>and</hi> Angels.</p>
+               <p>
+                  <hi>A.</hi> No it is not, for by ſo doing we honour God in them, his crea<g ref="char:EOLhyphen"/>tures. <hi>Praiſe ye the Lord in his Saints.</hi> Pſal. 150.</p>
+            </div>
+            <div n="10" type="part">
+               <head>The Tenth Article.</head>
+               <p>Q. <hi>WHat is the Tenth Article?</hi>
+               </p>
+               <p>A. <hi>The forgiveneſs of ſins?</hi>
+               </p>
+               <p>Q. <hi>What underſtand you by this?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> I underſtand that God is able, and willing to forgive us our ſins (if we be heartily ſorry for them, and confeſs them) both by himſelf, and by his Sacraments.</p>
+            </div>
+            <div n="11" type="part">
+               <head>The Eleventh Article.</head>
+               <p>Q. <hi>WHat is the eleventh Article?</hi>
+               </p>
+               <p>
+                  <hi>A. The Reſurrection of the fleſh.</hi>
+               </p>
+               <p>Q. <hi>What means this Article?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It means, that theſe very bo<g ref="char:EOLhyphen"/>dies in which we now live, ſhall at the day of Judgment be raiſed
+<pb n="22" facs="tcp:152159:14"/>from death to life by the com<g ref="char:EOLhyphen"/>mand of God.</p>
+               <p>Q. <hi>What are the qualities of a glorified body?</hi>
+               </p>
+               <p>
+                  <hi>A. Impaſſibility, Agility, Subtili<g ref="char:EOLhyphen"/>ty,</hi> and <hi>Clarity.</hi>
+               </p>
+               <p>Q. <hi>What benefit have we by this belief?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It emboldens us to ſuffer per<g ref="char:EOLhyphen"/>ſecutions, and death it ſelf, in hope of future glory.</p>
+            </div>
+            <div n="12" type="part">
+               <head>The twelfth Article.</head>
+               <p>Q. <hi>WHat is the twelfth</hi> Article?</p>
+               <p>
+                  <hi>A. And life everlaſting,</hi> Amen.</p>
+               <p>Q. <hi>What underſtand you by this?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> That ſuch as live well, and dye in ſtate of Grace, ſhall live with God in everlaſting Glory.</p>
+               <p>Q. <hi>In what conſiſteth</hi> everlaſting life?</p>
+               <p>
+                  <hi>A.</hi> In the clear ſight and poſſeſſion of God, in whom we ſhall enjoy
+<pb n="23" facs="tcp:152159:14"/>and ſee the natures and perfecti<g ref="char:EOLhyphen"/>ons of all his creatures, with an infinity of all good things.</p>
+               <p>Q. <hi>What will follow out of this clear ſight and poſſeſſion of God?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Divine love, and unſpeaka<g ref="char:EOLhyphen"/>ble joy, and out of that will flow Praiſe, Jubilation, and Thankſ<g ref="char:EOLhyphen"/>giving for ever.</p>
+               <p>Q. <hi>What means the word</hi> Amen?</p>
+               <p>
+                  <hi>A.</hi> It means, that the whole <hi>Creed</hi> is to be believed with divine Faith, and therefore we muſt hear<g ref="char:EOLhyphen"/>tily aſſent to it.</p>
+            </div>
+         </div>
+         <div n="4" type="chapter">
+            <head>
+               <hi>CHAP. IV.</hi> Hope Expounded.</head>
+            <p>Q. <hi>WHat is Hope?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is the gift of God, infuſed into our ſouls, by which we have a confident expectation of bliſs, and glory to be obtained by the merits and grace of <hi>Chriſt,</hi> and our good works proceeding from his grace.</p>
+            <pb n="24" facs="tcp:152159:15"/>
+            <p>Q. <hi>On what is this confidence grounded?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> On the merits and promiſes of <hi>Chriſt,</hi> who hath promiſed Hea<g ref="char:EOLhyphen"/>ven to ſuch as hope in him, doing good works; as alſo grace where<g ref="char:EOLhyphen"/>by to do them.</p>
+            <p>Q. <hi>What is the chief effect of</hi> Hope?</p>
+            <p>
+               <hi>A.</hi> Prayer, which is a lifting up of our minds to God, whereby we beg for good things, and to be freed from evil.</p>
+            <p>Q. <hi>What other effects hath it.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It cauſeth obedience to the Law of God, a willingneſs to ſuffer for his ſake, and final perſeverance.</p>
+            <p>Q. <hi>What Vice is oppoſite to</hi> Hope?</p>
+            <p>A. <hi>Deſpair and Preſumption.</hi>
+            </p>
+            <p>Q. <hi>What is Deſpair?</hi>
+            </p>
+            <p>
+               <hi>A. Diffidence</hi> in the Power of God, and merits of <hi>Chriſt.</hi>
+            </p>
+            <p>Q. <hi>What is Preſumption?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> A fooliſh confidence of ſal<g ref="char:EOLhyphen"/>vation,
+<pb n="25" facs="tcp:152159:15"/>without endeavouring to keep the Commandments.</p>
+         </div>
+         <div n="5" type="chapter">
+            <head>
+               <hi>CHAP. V.</hi> Our Lords Prayer expounded.</head>
+            <p>Q. <hi>WHo made this moſt holy Prayer.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Chriſt himſelf, St. <hi>Mat.</hi> 6. <hi>v.</hi> 9.</p>
+            <p>Q. <hi>Why did he make it?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> To teach us a ſet form of Prayer, and how we ought to pray.</p>
+            <p>Q. <hi>Why did he make it ſo ſhort and eaſie.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That all men might be ca<g ref="char:EOLhyphen"/>pable of it.</p>
+            <p>Q. <hi>What beg we by it?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> All thoſe chief things which we can ask or hope for of God.</p>
+            <p>Q. <hi>What mean thoſe words?</hi> Our Father which art in Heaven.</p>
+            <p>
+               <hi>A.</hi> They mean, that God is our <hi>Father</hi> by <hi>Creation</hi> &amp; <hi>Adoption</hi> al<g ref="char:EOLhyphen"/>ſo, if we be in ſtate of grace; and therefore we may boldly come to beg all bleſſings of him.</p>
+            <pb n="26" facs="tcp:152159:16"/>
+            <p>Q. <hi>Why,</hi> Our <hi>Father, and not</hi> my <hi>Father?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe God is the common <hi>Father</hi> of all, and all good <hi>Chriſti<g ref="char:EOLhyphen"/>a<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> muſt pray for one another.</p>
+            <p>Q. <hi>What underſtand you by</hi> which art in Heaven?</p>
+            <p>
+               <hi>A.</hi> That God is there manifeſt<g ref="char:EOLhyphen"/>ing his glory to the <hi>bleſſed,</hi> &amp; there<g ref="char:EOLhyphen"/>fore when we pray, we muſt lift up our hearts to him in Heaven.</p>
+            <p>Q. <hi>Say the firſt Petition?</hi>
+            </p>
+            <p>
+               <hi>A. Hallowed be thy Name.</hi>
+            </p>
+            <p>Q. <hi>What do we beg by this?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That God may be known worthily praiſed, ſerved, and ho<g ref="char:EOLhyphen"/>noured by all his creatures.</p>
+            <p>Q. <hi>Say the ſecond Petition?</hi>
+            </p>
+            <p>
+               <hi>A. Thy Kingdom come.</hi>
+            </p>
+            <p>Q. <hi>What beg we by this?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That our miſeries and afflicti<g ref="char:EOLhyphen"/>ons of this life may be ended, and that we may partake the joys of his Kingdom.</p>
+            <pb n="27" facs="tcp:152159:16"/>
+            <p>Q. <hi>What elſe?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That Chriſt may reign in us, in this life by grace; and in the next by glory, preſenting us a King<g ref="char:EOLhyphen"/>dom to his Father.</p>
+            <p>Q. <hi>Say the third petition.</hi>
+            </p>
+            <p>
+               <hi>A. Thy will be done on earth, as it is in Heaven.</hi>
+            </p>
+            <p>Q. <hi>What beg we by this?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That God would enable us by his grace, to do his will in all things.</p>
+            <p>Q. <hi>What meaneth,</hi> In Earth, as it is in Heaven?</p>
+            <p>
+               <hi>A.</hi> We beg by this, that we may be as ready and chearful to obey the will of God on Earth, as the <hi>Saints</hi> and <hi>Angels</hi> are in Heaven.</p>
+            <p>Q. <hi>Say the forth petition.</hi>
+            </p>
+            <p>
+               <hi>A. Give us this day our daily bread.</hi>
+            </p>
+            <p>Q. <hi>What beg we by this?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> All food, and ſuſtenance for our ſouls and bodies.</p>
+            <pb n="28" facs="tcp:152159:17"/>
+            <p>Q. <hi>What is the food of the ſoul?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The Word of God, the holy <hi>Sacraments;</hi> eſpecially, the <hi>bleſſed Euchariſt,</hi> and Divine grace.</p>
+            <p>Q. <hi>Why is the bleſſed</hi> Eucha<g ref="char:EOLhyphen"/>riſt <hi>called our</hi> daily Bread?</p>
+            <p>
+               <hi>A.</hi> Becauſe it is daily offered on the <hi>Altar</hi> for our ſins, and we ought daily to receive it in ſpirit, or deſire.</p>
+            <p>Q. <hi>Say the fifth Article.</hi>
+            </p>
+            <p>A. <hi>And forgive us our debts as w<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> forgive our debtors.</hi>
+            </p>
+            <p>Q. <hi>What beg you by this?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That God would forgive us the ſins of our life paſt, and all the puniſhments due to them.</p>
+            <p>Q. <hi>Why is added,</hi> as we forgive our Debtors?</p>
+            <p>
+               <hi>A.</hi> To ſignifie that God will not forgive us, unleſs we forgive our Enemies.</p>
+            <p>Q. <hi>Say the Sixth Petition.</hi>
+            </p>
+            <pb n="29" facs="tcp:152159:17"/>
+            <p>A. <hi>And lead us not into Temptation.</hi>
+            </p>
+            <p>Q. <hi>What beg we by this?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That God would not permit us to be tempted above our ſtrength.</p>
+            <p>Q. <hi>Doth God tempt us to ſin?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> No, he doth not, <hi>God is not the tempter of evils, he tempteth no man,</hi> St. James 5. v. 13.</p>
+            <p>Q <hi>By whom are we tempted?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By the Devil, the World, and our own Concupiſcenſe.</p>
+            <p>Q. <hi>Is it any ſin to be tempted?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Not without ſome conſent or delight on our part.</p>
+            <p>Q. <hi>Say the ſeventh petition.</hi>
+            </p>
+            <p>
+               <hi>A. But deliver us from evil.</hi>
+            </p>
+            <p>Q. <hi>What beg we by this?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That God would free us from all evil, both ſpiritual and temporal.</p>
+            <p>Q. <hi>Who is the Author of all evil of ſin?</hi>
+            </p>
+            <pb n="30" facs="tcp:152159:18"/>
+            <p>
+               <hi>A.</hi> The Devil; <hi>for ſin in God there is none,</hi> 1 St. <hi>John,</hi> chap. 3. v. 5.</p>
+         </div>
+         <div n="6" type="chapter">
+            <head>
+               <hi>CHAP VI.</hi> The Hail <hi>Mary,</hi> or Angelical Salu<g ref="char:EOLhyphen"/>tation Expounded.</head>
+            <p>Q. <hi>WHat is the Hail</hi> Mary?</p>
+            <p>
+               <hi>A.</hi> It is moſt honoura<g ref="char:EOLhyphen"/>ble Salutation and holy prayer to the <hi>bleſſed Virgin</hi> Mary.</p>
+            <p>Q. <hi>How many parts hath it?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Three.</p>
+            <p>Q. <hi>Say the firſt part?</hi>
+            </p>
+            <p>
+               <hi>A. Hail</hi> Mary <hi>full of grace, our Lord is with thee?</hi>
+            </p>
+            <p>Q. <hi>Who made this part of it?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The <hi>Holy Ghoſt, although it were delivered by the Angel</hi> Gabriel.</p>
+            <p>Q. <hi>Say the ſecond part?</hi>
+            </p>
+            <p>
+               <hi>A. Bleſſed art thou amongſt Wo<g ref="char:EOLhyphen"/>men, and bleſſed is the fruit of thy Womb Jeſus.</hi>
+            </p>
+            <p>Q. <hi>Who ſpake this?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> S. <hi>Elizabeth,</hi> inſpired by the <hi>Holy Ghoſt.</hi>
+            </p>
+            <pb n="31" facs="tcp:152159:18"/>
+            <p>Q. <hi>Say the third and laſt part of it?</hi>
+            </p>
+            <p>
+               <hi>A. Holy</hi> Mary, <hi>Mother of God, pray for us ſinners; now, and at the hour of our death.</hi>
+            </p>
+            <p>Q. <hi>Who made this part?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The <hi>Catholick-Church</hi> in the <hi>Counſel of Epheſus,</hi> againſt <hi>Neſtor</hi> the Heretick, who denyed our <hi>bleſſed Lady</hi> to be the Mother of God.</p>
+         </div>
+         <div n="7" type="chapter">
+            <head>
+               <hi>CHAP. VII.</hi> Charity Expounded.</head>
+            <p>Q. <hi>WHat is</hi> Charity?</p>
+            <p>
+               <hi>A.</hi> It is the gift of God infus'd into the ſouls, by which we love God above all things, and our Neighbours as our ſelves.</p>
+            <p>Q. <hi>Who are our Neighbours?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> All Man-kind, eſpecially <hi>Catholicks.</hi>
+            </p>
+            <p>Q. <hi>Why all Man-kind?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe they are the Images
+<pb n="32" facs="tcp:152159:19"/>of God, and redeemed with the blood of <hi>Chriſt.</hi>
+            </p>
+            <p>
+               <hi>Q. Why eſpecially</hi> Catholicks?</p>
+            <p>
+               <hi>A.</hi> Becauſe they are Members of the <hi>myſtical body of Chriſt, the Church.</hi>
+            </p>
+            <p>
+               <hi>Q. What is it to love God above all things?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> To be willing to loſe all things, rather than the love and grace of God by any immortal ſin.</p>
+            <p>
+               <hi>Q. What is it to love our Neigh<g ref="char:EOLhyphen"/>bour as our ſelves?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> To wiſh him as much good as our ſelves, and do him no wrong.</p>
+            <p>
+               <hi>Q. What is the higheſt act of</hi> Charity?</p>
+            <p>
+               <hi>A.</hi> To give our life for God's ho<g ref="char:EOLhyphen"/>nour, or our Neighbours ſalvation.</p>
+            <p>
+               <hi>Q. What are the effects of</hi> Cha<g ref="char:EOLhyphen"/>rity?</p>
+            <p>
+               <hi>A.</hi> It remitteth ſin, and giveth ſpiritual life to the ſoul. <hi>He that
+<pb n="33" facs="tcp:152159:19"/>loveth not, remaineth in death,</hi> 1 John 3.11.</p>
+         </div>
+         <div n="8" type="chapter">
+            <head>
+               <hi>CHAP. VIII.</hi> Concerning the Commandments in general.</head>
+            <p>Q. <hi>VVHat is the chief end of the</hi> Commandments?</p>
+            <p>
+               <hi>A.</hi> To teach us the love of God, and our Neighbour; <hi>He that lov<g ref="char:EOLhyphen"/>eth hath fulfilled the Law.</hi>
+            </p>
+            <p>
+               <hi>Q. Why did God give the</hi> Com<g ref="char:EOLhyphen"/>mandments to Moſes <hi>on</hi> Mount Sinai, <hi>in thunder and lightning?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> To move us to a careful keep<g ref="char:EOLhyphen"/>ing of them.</p>
+            <p>
+               <hi>Q. Is it poſſible to keep them all?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is by, Gods grace <hi>Zachary</hi> and <hi>Elizabeth were both juſt before God, walking in all the Command<g ref="char:EOLhyphen"/>ments of our Lord without reproof, S.</hi> Luke 1. v. 6.</p>
+            <p>
+               <hi>Q. Are we bound to keep them?</hi>
+            </p>
+            <pb n="34" facs="tcp:152159:20"/>
+            <p>
+               <hi>A.</hi> We are, <hi>He that ſhall break any one of theſe leaſt Commande<g ref="char:EOLhyphen"/>ments, and teach men ſo to do, he ſhall be called leaſt in the Kingdom of Heaven,</hi> S. <hi>Mark</hi> 5. v. 10.</p>
+            <div type="part">
+               <head>The Commandements in parti<g ref="char:EOLhyphen"/>cular.</head>
+               <div n="1" type="section">
+                  <head>The firſt Commandement.</head>
+                  <p>Q. <hi>Say the firſt</hi> Commandement.</p>
+                  <p>
+                     <hi>A. I am the Lord thy God,</hi> &amp;c. <hi>thou ſhalt not have ſtrange Gods be<g ref="char:EOLhyphen"/>fore me,</hi> &amp;c.</p>
+                  <p>Q. <hi>What are we commanded by this?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> To love, ſerve, and worſhip one, only true, and living God, and no more.</p>
+                  <p>Q. <hi>What is forbidden by it?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> To worſhip <hi>Idols,</hi> or give any creature the honour due to God.</p>
+                  <p>Q. <hi>What is the honour due to God?</hi>
+                  </p>
+                  <p>
+                     <hi>A. Supream</hi> and <hi>Soveraign honour;</hi>
+                     <pb n="35" facs="tcp:152159:20"/>we muſt worſhip him as our <hi>Crea<g ref="char:EOLhyphen"/>tor, Redeemer,</hi> and <hi>laſt end.</hi>
+                  </p>
+                  <p>Q. <hi>Is it lawful to honour the</hi> I<g ref="char:EOLhyphen"/>mages <hi>of</hi> Chriſt <hi>and his</hi> Saints?</p>
+                  <p>
+                     <hi>A.</hi> Yes, with an <hi>inferior</hi> and <hi>rela<g ref="char:EOLhyphen"/>tive honour</hi> (in as much as they re<g ref="char:EOLhyphen"/>preſent unto us heavenly things) but not with God's honour.</p>
+                  <p>Q <hi>Do</hi> Catholicks <hi>pray to Images?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> No, by no means, we pray before them indeed, to keep us from diſtractions, but not to them, for we well know that they can neither ſee, nor hear, nor help us.</p>
+                  <p>Q. <hi>What benefit then have we of them?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> They movingly repreſent to us the <hi>myſteries</hi> of our <hi>Saviours Paſ<g ref="char:EOLhyphen"/>ſion,</hi> &amp; the <hi>martyrdoms</hi> of his Saints.</p>
+                  <p>Q. <hi>What benefit have we by ho<g ref="char:EOLhyphen"/>nouring and Canonizing</hi> Saints?</p>
+                  <p>
+                     <hi>A.</hi> It ſtrongly moves us to imi<g ref="char:EOLhyphen"/>tate their examples, by ſhewing their rewards.</p>
+                  <pb n="36" facs="tcp:152159:21"/>
+                  <p>
+                     <hi>Q. How do we honour</hi> Saints <hi>and</hi> Angels?</p>
+                  <p>
+                     <hi>A. With an inferiour honour,</hi> as the Friends and Creatures of God<g ref="char:punc">▪</g> not as Gods, or with Gods honour.</p>
+                  <p>
+                     <hi>Q. Is it lawful to honour the re<g ref="char:EOLhyphen"/>liques of</hi> Saints?</p>
+                  <p>
+                     <hi>A. Yes with relative honour,</hi> fo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the <hi>Handkerchief and Aprons which had but touched the body of</hi> S. Paul <hi>caſt out Devils, and cured all Diſ<g ref="char:EOLhyphen"/>eaſes,</hi> Act. 19 v. 11.</p>
+               </div>
+               <div n="2" type="section">
+                  <head>The ſecond Commandment.</head>
+                  <p>
+                     <hi>Q. SAy the ſecond Command<g ref="char:EOLhyphen"/>ment.</hi>
+                  </p>
+                  <p>
+                     <hi>A. Thou ſhalt not take the Na<gap reason="illegible" resp="#MURP" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> of the Lord thy God in vain.</hi>
+                  </p>
+                  <p>
+                     <hi>Q. What forbidden by this?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> All falſe, raſh, and unneceſſa<g ref="char:EOLhyphen"/>ry Oaths.</p>
+                  <p>
+                     <hi>Q. What is commanded by it?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> To ſpeak with reverence of God and his Saints.</p>
+                  <pb n="37" facs="tcp:152159:21"/>
+                  <p>Q. <hi>In what caſe is it lawful to ſwear.?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> When God's honour, our own, our Neighbours lawful de<g ref="char:EOLhyphen"/>fence requireth it.</p>
+                  <p>Q. <hi>If a man ſwear to do evil, is he bound to keep his Oath?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> No, he is bound to break it, for an Oath is no bond of iniquity.</p>
+               </div>
+               <div n="3" type="section">
+                  <head>The Third Commandments.</head>
+                  <p>Q. SAy <hi>the third.</hi>
+                  </p>
+                  <p>
+                     <hi>A. Remember thou keep holy the Sabbath day.</hi>
+                  </p>
+                  <p>Q. <hi>What is commanded by this?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> To ſpend the <hi>Sunday</hi> in pray<g ref="char:EOLhyphen"/>er, and hearing divine ſervice.</p>
+                  <p>Q. <hi>What is forbidden by it?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Servile work, and prophane imployment.</p>
+                  <p>Q. <hi>Why was the</hi> Jewiſh Sabbath <hi>changed into the</hi> Sunday.</p>
+                  <p>
+                     <hi>A.</hi> Becauſe Chriſt roſe from
+<pb n="38" facs="tcp:152159:22"/>the dead, and ſent down the Ho<g ref="char:EOLhyphen"/>ly Ghoſt upon a <hi>Sunday.</hi>
+                  </p>
+                  <p>Q. <hi>By whom was it changed?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> By the Church in the Apo<g ref="char:EOLhyphen"/>ſtles time.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>The ſecond TABLE of the LAW <hi>Expounded.</hi>
+               </head>
+               <div n="4" type="section">
+                  <head>The Fourth Commandment.</head>
+                  <p>Q. <hi>SAy the fourth.</hi>
+                  </p>
+                  <p>
+                     <hi>A. Honour thy Father a<gap reason="illegible" resp="#MURP" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> thy Mother.</hi>
+                  </p>
+                  <p>Q. <hi>What is commanded by this?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> To love reverence, and obe<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> our Parents in all that is not ſin.</p>
+                  <p>Q. <hi>What is forbidden by it?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> All ſowerneſs, ſtubborneſs diſobedience to Parents.</p>
+                  <p>Q. <hi>Why are we bound to love the<gap reason="illegible" resp="#MURP" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Becauſe under God they ar<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the chief cauſes of our very li<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> and being.</p>
+                  <p>Q. <hi>How to Honour them?</hi>
+                  </p>
+                  <pb n="39" facs="tcp:152159:22"/>
+                  <p>
+                     <hi>A.</hi> Not only inwardly in our hearts, but alſo outwardly in our carriage.</p>
+                  <p>Q. <hi>Why to obey them?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Becauſe they have a power from God both to inſtruct, direct, and correct us.</p>
+                  <p>Q. <hi>What is the reward of duti<g ref="char:EOLhyphen"/>ful Children.</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Long and happy life, good Children (if they Marry) and a good death.</p>
+                  <p>Q. <hi>What is the reward of unduti<g ref="char:EOLhyphen"/>ful?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> A ſhort and ſinful life, ac<g ref="char:EOLhyphen"/>companied with an untimely death, witneſs <hi>Abſolon,</hi> 2. of <hi>King.</hi> 18. chap.</p>
+                  <p>Q. <hi>What ſignifies the word</hi> Father?</p>
+                  <p>
+                     <hi>A.</hi> Not only our corporal Pa<g ref="char:EOLhyphen"/>rents, but alſo our <hi>Ghoſtly Fathers, and all lawful Superiors.</hi>
+                  </p>
+                  <p>Q. <hi>Is any great honour due to</hi>
+                     <pb n="40" facs="tcp:152159:23"/>Prieſts, <hi>and Ghoſtly Fathers?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Very great, for they are Gods anointed, who repreſent the perſon of <hi>Chriſt,</hi> and are the Fa<g ref="char:EOLhyphen"/>thers, and feeders of our ſouls.</p>
+                  <p>Q. <hi>In what are we bound to be lieve and obey them?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> In all things belonging to faith and the government of our ſouls.</p>
+               </div>
+               <div n="5" type="section">
+                  <head>The Fifth Commandment.</head>
+                  <p>Q <hi>SAy the fifth.</hi>
+                  </p>
+                  <p>
+                     <hi>A. Thou ſhalt not kill.</hi>
+                  </p>
+                  <p>Q. <hi>What is forbidden by this?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> All wilful Murther, unju<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> ſhedding of blood, fighting, an<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> quarrelling.</p>
+                  <p>Q. <hi>What is commanded by it?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> To defend our own and in<g ref="char:EOLhyphen"/>nocent Neighbours life.</p>
+               </div>
+               <div n="6" type="section">
+                  <head>The ſixth Commandment.</head>
+                  <p>Q <hi>SAy the ſixth.</hi>
+                  </p>
+                  <p>
+                     <hi>A. Thou ſhalt not commit Adultery.</hi>
+                  </p>
+                  <pb n="41" facs="tcp:152159:23"/>
+                  <p>Q. <hi>What is forbidden by this?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> All carnal ſin with anothers Wife or Husband, as alſo fornica<g ref="char:EOLhyphen"/>tion and pollution.</p>
+                  <p>Q <hi>What elſe?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Unchaſt touching of our ſelves, or others, with all delight in luſtful thoughts or kiſſes.</p>
+                  <p>Q. <hi>What is commanded by it?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> To love and be faithful to our own Wives and Husbands.</p>
+                  <p>Q. <hi>Why is Luſt hateful in the ſight of God.</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Becauſe it defileth in us the <hi>I<g ref="char:EOLhyphen"/>mage of God,</hi> the Member of <hi>Chriſt,</hi> and the <hi>Temple</hi> of the Holy Ghoſt.</p>
+               </div>
+               <div n="7" type="section">
+                  <head>The ſeventh Commandment.</head>
+                  <p>Q. <hi>SAy the ſeventh.</hi>
+                  </p>
+                  <p>
+                     <hi>A. Thou ſhalt not ſteal.</hi>
+                  </p>
+                  <p>Q. <hi>What is forbidden by this?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> All unjuſt taking away, or keeping of that which is another mans.</p>
+                  <pb n="42" facs="tcp:152159:24"/>
+                  <p>Q. <hi>What is commanded by it?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> To give every man his own.</p>
+                  <p>Q. <hi>What doth theſe oblige us to?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> To reſtore the thing ſtolen to the right owner, if we be able, elſe the ſin will not be forgiven us.</p>
+               </div>
+               <div n="8" type="section">
+                  <head>The Eighth Commandments.</head>
+                  <p>Q. SAy <hi>the eighth.</hi>
+                  </p>
+                  <p>
+                     <hi>A. Thou ſhalt not bear falſe witneſs againſt thy Neighbour.</hi>
+                  </p>
+                  <p>Q. <hi>What is forbidden by this?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> All falſe teſtimonies, raſh judgments and lies.</p>
+                  <p>Q. <hi>What elſe?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Backbiting, flattery, detracti<g ref="char:EOLhyphen"/>on.</p>
+                  <p>Q. <hi>What is he bound to, who hath hurt his Neighbour in this kind?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> To make him ſatisfaction, and reſtore his good Name.</p>
+                  <p>Q. <hi>What is commanded by this precept?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> To ſpeak and witneſs the
+<pb n="43" facs="tcp:152159:24"/>truth in all things, <hi>For the Devil is a lyer, and the Father of lyes,</hi> S. John the 8th. v. 24.</p>
+               </div>
+               <div n="9-10" type="section">
+                  <head>The <hi>9th.</hi> and <hi>10th.</hi> Commandments.</head>
+                  <p>Q. <hi>SAy the ninth and tenth.</hi>
+                  </p>
+                  <p>
+                     <hi>A. Thou ſhalt not covet thy Neighbours Wife, Thou ſhalt not co<g ref="char:EOLhyphen"/>vet thy Neighbours goods.</hi>
+                  </p>
+                  <p>Q. <hi>What is forbidden by theſe?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> All inordinate deſires of Luſt, Adultery, and Theft.</p>
+                  <p>Q. <hi>What elſe.</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> All deliberate and volunta<g ref="char:EOLhyphen"/>ry delight in covetous or impure thoughts.</p>
+                  <p>Q. <hi>What are we commanded by theſe?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> To entertain chaſt and ho<g ref="char:EOLhyphen"/>neſt thoughts, and be contented with our own eſtates.</p>
+               </div>
+            </div>
+         </div>
+         <div n="9" type="chapter">
+            <pb n="44" facs="tcp:152159:25"/>
+            <head>
+               <hi>CHAP. IX.</hi> The Commandments of the <hi>Church.</hi>
+            </head>
+            <p>Q. <hi>HOw many, and what are the</hi> Commandments <hi>of the</hi> Church?</p>
+            <p>
+               <hi>A. There be ſix principal ones.</hi>
+            </p>
+            <p n="1">1. To hear <hi>Maſs</hi> upon all <hi>Sun<g ref="char:EOLhyphen"/>days</hi> and <hi>Holy-days,</hi> if we have op<g ref="char:EOLhyphen"/>portunity.</p>
+            <p n="2">2. To faſt <hi>Lent, Vigils</hi> com<g ref="char:EOLhyphen"/>manded, <hi>Ember-days,</hi> and <hi>Fridays</hi> alſo by the cuſtom of <hi>England,</hi> with abſtinence from fleſh on <hi>Sa<g ref="char:EOLhyphen"/>turdays.</hi>
+            </p>
+            <p n="3">3. To confeſs our ſins at leaſt once a year.</p>
+            <p n="4">4. To receive the <hi>bleſſed Sacra<g ref="char:EOLhyphen"/>ments</hi> at leaſt once a year, and that at <hi>Eaſter,</hi> or thereabouts, namely, betwixt <hi>Palm-Sunday</hi> and <hi>Low-Sunday.</hi>
+            </p>
+            <p n="5">5. To pay Tythes to our <hi>Paſtors.</hi>
+            </p>
+            <p n="6">6. Not to ſolemnize Marriage
+<pb n="45" facs="tcp:152159:25"/>at forbidden times, that is from the firſt <hi>Sunday</hi> in <hi>Advent,</hi> till <hi>Twelfth-day</hi> be paſt, not from <hi>Aſh<g ref="char:EOLhyphen"/>wedneſday,</hi> until <hi>Low-Sunday</hi> be paſt.</p>
+            <p>Q. <hi>Are we bound under ſin to keep theſe</hi> Commandments <hi>of the</hi> Church?</p>
+            <p>A. We are, <hi>He that will not hear the Church, let him be unto thee as a Heathen, or a Publican,</hi> S. Mat. 18. v. 18.</p>
+         </div>
+         <div n="10" type="chapter">
+            <head>
+               <hi>CHAP. X.</hi> The Councils of the Church ex<g ref="char:EOLhyphen"/>pounded.</head>
+            <p>Q <hi>HOw many and what are the</hi> Councils of the Church?</p>
+            <p>
+               <hi>A.</hi> There be 3. principal ones.</p>
+            <p n="1">1. <hi>
+                  <g ref="char:V">Ʋ</g>oluntary poverty, If thou wilt be perfect, go and ſell all thou haſt, and give to the poor, and thou ſhalt have treaſure in Heaven.</hi> S. Mat. 3. v. 21.</p>
+            <pb n="46" facs="tcp:152159:26"/>
+            <p n="2">2. <hi>Perpetual Chaſtity,</hi> which is a voluntary abſtaining from all carnal pleaſures, <hi>He that gives his Virgin in Marriage does well, but he that gives it not, does better,</hi> 1 Cor. 7. v. 40.</p>
+            <p n="3">3. <hi>Obedience,</hi> which is volunta<g ref="char:EOLhyphen"/>ry ſubjection to anothers will in all that is not ſin. <hi>Obey your Prelates, and be ſubject to them, for they watch as being to render an account for your ſouls,</hi> Heb. 13. v. 17.</p>
+         </div>
+         <div n="11" type="chapter">
+            <head>
+               <hi>CHAP. XI.</hi> Of the Sacraments in general.</head>
+            <p>Q. <hi>HOw many Sacraments be there?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Seven, <hi>Baptiſm, Confirmation, Euchariſt, Penance, extream <g ref="char:V">Ʋ</g>ncti<g ref="char:EOLhyphen"/>on, Holy Order, and Matrimony.</hi>
+            </p>
+            <p>Q. <hi>What is a Sacrament in gene<g ref="char:EOLhyphen"/>ral?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is a viſible ſign of inviſible grace, inſtituted by Chriſt our Lord for our ſanctification.</p>
+            <pb n="47" facs="tcp:152159:26"/>
+            <p>Q. <hi>From whence have the</hi> Sacra<g ref="char:EOLhyphen"/>ments <hi>their force and efficacy?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> From the <hi>Blood, Paſſion,</hi> of <hi>Chriſts</hi> merits, which they apply to our ſouls.</p>
+            <p>Q. <hi>What things are eſſential to a</hi> Sacrament?</p>
+            <p>
+               <hi>A.</hi> Matter and Form.</p>
+            <p>Q. <hi>Do all the</hi> Sacraments <hi>cauſe</hi> Grace?</p>
+            <p>
+               <hi>A.</hi> Inſtrumentally they do.</p>
+            <p>Q. <hi>How many of them give a</hi> character?</p>
+            <p>
+               <hi>A.</hi> Three, <hi>Baptiſm, Confirmation,</hi> and <hi>holy Order,</hi> and therefore theſe can be given but once.</p>
+            <p>Q. <hi>Who is the ordinary Mini<g ref="char:EOLhyphen"/>ſter of them?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> A <hi>Prieſt,</hi> excepting holy <hi>Or<g ref="char:EOLhyphen"/>der</hi> and <hi>Confirmation,</hi> which are re<g ref="char:EOLhyphen"/>ſerved to <hi>Biſhops</hi> only.</p>
+            <div type="part">
+               <pb n="48" facs="tcp:152159:27"/>
+               <head>Baptiſm Expounded.</head>
+               <p>Q. <hi>WHat is Baptiſm?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It is a <hi>Sacrament,</hi> by which we are born a new to God, and conſiſteth in an outward waſhing of the body, under a ſet form of words.</p>
+               <p>Q. <hi>What is the neceſſary matter of it?</hi>
+               </p>
+               <p>
+                  <hi>A. Natural water only;</hi> for arti<g ref="char:EOLhyphen"/>ficial water will not ſerve.</p>
+               <p>Q. <hi>What is the form of it?</hi>
+               </p>
+               <p>
+                  <hi>A. I Baptize thee</hi> N. <hi>in the Name of the Father, and of the Son, and of the Holy Ghoſt.</hi>
+               </p>
+               <p>Q. What <hi>if the word</hi> I Baptize, <hi>or any one of the three Perſons be left out?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Then the <hi>Baptiſm</hi> is not valid.</p>
+               <p>Q. <hi>Can a man be ſaved without</hi> Baptiſm?</p>
+               <p>
+                  <hi>A.</hi> He cannot, unleſs he have it, either actually, or in deſire, with
+<pb n="49" facs="tcp:152159:27"/>contrition; or be Baptized in his own blood, by Martyrdome.</p>
+               <p>Q. <hi>Can no man but a</hi> Prieſt Bap<g ref="char:EOLhyphen"/>tize?</p>
+               <p>
+                  <hi>A.</hi> Yes, in caſe of neceſſity, when a <hi>Prieſt</hi> cannot be had, any Lay<g ref="char:EOLhyphen"/>man, or Woman may do it.</p>
+               <p>Q. <hi>What intention is neceſſary in him that giveth</hi> Baptiſm?</p>
+               <p>
+                  <hi>A.</hi> To what the Church does, and Chriſt ordained.</p>
+               <p>Q <hi>What are the effects of</hi> Baptiſm?</p>
+               <p>
+                  <hi>A.</hi> It makes us the <hi>Children of God</hi> by remitting <hi>Original ſin,</hi> and infuſing juſtifying grace into the ſoul, with habits of <hi>Faith, Hope,</hi> and <hi>Charity.</hi>
+               </p>
+               <p>Q Why <hi>have we one</hi> God-father <hi>and one</hi> God mother <hi>in</hi> Baptiſm?</p>
+               <p>
+                  <hi>A.</hi> That if our Parents neglect it, or it be prevented by death, they may inſtruct us in the Faith of Chriſt.</p>
+               <pb n="50" facs="tcp:152159:28"/>
+               <p>Q. <hi>How can</hi> Infants <hi>be Chriſtned, who have no actual faith?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> In the <hi>Faith of the Church, and their Godfathers and Godmo<g ref="char:EOLhyphen"/>thers, unleſs any one be born again of water and the Spirit, he cannot enter into the Kingdom of God, S.</hi> John 3. v. 5.</p>
+               <p>Q. <hi>Why are ſo many</hi> Ceremonies <hi>uſed in</hi> Baptiſm?</p>
+               <p>
+                  <hi>A.</hi> To ſtir up reverence to the <hi>Sacrament,</hi> and ſignifie the inward effects thereof.</p>
+            </div>
+            <div type="part">
+               <head>Confirmation expounded.</head>
+               <p>Q. <hi>WHat is</hi> Confirmation?</p>
+               <p>
+                  <hi>A.</hi> It is a Sacrament which makes us ſtrong and perfect Chriſtians, able to profeſs our faith before tyrants and perſecutors.</p>
+               <p>Q. <hi>What is the matter of it?</hi>
+               </p>
+               <p>
+                  <hi>A. Oyl mingled with balm, bleſ<g ref="char:EOLhyphen"/>ſed by the Biſhop.</hi>
+               </p>
+               <p>Q <hi>What is the form of it?</hi>
+               </p>
+               <pb n="51" facs="tcp:152159:28"/>
+               <p>
+                  <hi>A. I ſign thee with the ſign of the Croſs; I confirm thee with the Chri<g ref="char:EOLhyphen"/>ſome of ſalvation, in the name of the Father, and of the Son, and of the Holy Ghoſt.</hi>
+               </p>
+               <p>Q. <hi>What Scripture have you for this?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The ſecond to the <hi>Corinthians,</hi> c. 1. v. 24. <hi>And he that confirmeth us with you in Chriſt, and hath an<g ref="char:EOLhyphen"/>noyled us, God, who alſo hath ſealed us, and given the pledge of the ſpirit in our hearts.</hi>
+               </p>
+               <p>Q. <hi>Who is the Miniſter of this</hi> Sa<g ref="char:EOLhyphen"/>crament?</p>
+               <p>
+                  <hi>A.</hi> Biſhop only.</p>
+               <p>Q. <hi>What ſin is it, not to receive this Sacrament when we may have it?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> A mortal ſin, if it be done out of contempt, or any groſs neg<g ref="char:EOLhyphen"/>lect, eſpecially in a perſecuting Country as ours is.</p>
+            </div>
+            <div type="part">
+               <pb n="52" facs="tcp:152159:29"/>
+               <head>The bleſſed Euchariſt expounded.</head>
+               <p>Q. <hi>WHat is the bleſſed</hi> Eu<g ref="char:EOLhyphen"/>chariſt?</p>
+               <p>
+                  <hi>A. It is the body and blood of Je<g ref="char:EOLhyphen"/>ſus Chriſt, true God, and true Man, whole Chriſt,</hi> under the likeneſs and outward ſhape of bread.</p>
+               <p>Q. <hi>In what manner is</hi> Chriſt?</p>
+               <p>
+                  <hi>A.</hi> By the true and real pre<g ref="char:EOLhyphen"/>ſence of his divine and humane na<g ref="char:EOLhyphen"/>ture, and not figuratively only, as <hi>Hereticks</hi> would have it.</p>
+               <p>Q. <hi>How prove you that?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Becauſe when Chriſt ordain<g ref="char:EOLhyphen"/>ed it at his laſt ſupper, <hi>He took bread, bleſſed, brake, and gave it to his Diſciples, ſaying, This is my Body, and he alſo bleſſed the Cup,</hi> ſaying, <hi>This is my blood of the New Teſtament, which ſhall be ſhed for many, for the remiſſion of ſins,</hi> St. Mat. 26. v. 26.</p>
+               <p>Q. <hi>By what means is that which
+<pb n="53" facs="tcp:152159:29"/>was before</hi> Bread <hi>turned into the</hi> Body <hi>of</hi> Chriſt, <hi>and that which was</hi> Wine, <hi>made the</hi> Blood <hi>of</hi> Chriſt?</p>
+               <p>
+                  <hi>A.</hi> By the moſt holy and power<g ref="char:EOLhyphen"/>ful words of <hi>Conſecration,</hi> ordained by Chriſt, and ſpoken by the Prieſt.</p>
+               <p>Q. <hi>Is the body of Chriſt hurt or broken, when we divide and break the Sacrament?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> No, it is not, for <hi>Chriſt is now immortal, and impaſſible, he can<g ref="char:EOLhyphen"/>not dye nor ſuffer any more,</hi> Rom. 6. v. 9.</p>
+               <p>Q. <hi>How can the ſame thing be in many places at once?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> By the omnipotency of God, by which he himſelf is in all and e<g ref="char:EOLhyphen"/>very of his Creatures, at one and the ſame time.</p>
+               <p>Q. <hi>What is the matter of this Sa<g ref="char:EOLhyphen"/>crament?</hi>
+               </p>
+               <pb n="54" facs="tcp:152159:30"/>
+               <p>
+                  <hi>A.</hi> Wheaten Bread, and Wine of the Grape.</p>
+               <p>Q. <hi>What is the form of it?</hi>
+               </p>
+               <p>
+                  <hi>A. This is my body, this is my blood.</hi>
+               </p>
+               <p>Q. <hi>What diſpoſition is required in him that receives the</hi> B. <hi>Euchariſt?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> That he have firſt confeſſed his ſins, and be in ſtate of grace. <hi>For he that eateth and drinketh un<g ref="char:EOLhyphen"/>worthily, eateth and drinketh dam<g ref="char:EOLhyphen"/>nation to himſelf,</hi> 1 Cor. 11. v. 29.</p>
+               <p>Q. <hi>What are the effects of this Sa<g ref="char:EOLhyphen"/>crament?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It increaſeth grace, and nou<g ref="char:EOLhyphen"/>riſheth our ſouls in ſpiritual life. <hi>He that eateth of this bread, ſhall live for ever, S.</hi> John 6.</p>
+               <p>Q. <hi>What is the</hi> Maſs?</p>
+               <p>
+                  <hi>A.</hi> It is the <hi>unbloody ſacrifice of the body and blood of Chriſt, which he himſelf, ordained at his laſt ſup<g ref="char:EOLhyphen"/>per.</hi>
+               </p>
+               <pb n="55" facs="tcp:152159:30"/>
+               <p>Q. <hi>For what is the Sacrifice a<g ref="char:EOLhyphen"/>vailable?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> For the remiſſion of ſins, and the obtaining of all gifts and graces.</p>
+            </div>
+            <div type="part">
+               <head>Penance Expounded.</head>
+               <p>Q. <hi>WHen did Chriſt ordain this</hi> Sacrament?</p>
+               <p>
+                  <hi>A.</hi> After his riſing from the dead, when he breathed on his Diſ<g ref="char:EOLhyphen"/>ciples, ſaying, <hi>Receive ye the Ho<g ref="char:EOLhyphen"/>ly Ghoſt, whoſe ſins ye ſhall forgive, they are forgiven; and whoſe ſins ye ſhall retain, they are retained,</hi> St. Joh. 20. v. 23.</p>
+               <p>Q. <hi>What is the matter of this</hi> Sacrament.</p>
+               <p>A. <hi>The ſins and confeſſion of the Penitent.</hi>
+               </p>
+               <p>Q. <hi>What is the form of it?</hi>
+               </p>
+               <p>A. <hi>I abſolve thee from thy ſins. In the Name of the Father and of the Son, and of the Holy Ghoſt.</hi>
+               </p>
+               <pb n="56" facs="tcp:152159:31"/>
+               <p>Q. <hi>What are the effects of it?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It reconcileth us to God, and either reſtoreth or increaſeth grace.</p>
+               <p>Q. <hi>How many parts hath it?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Three, <hi>Contrition, Confeſſi<g ref="char:EOLhyphen"/>on, and Satisfaction?</hi>
+               </p>
+               <p>Q. <hi>What is required to a good</hi> Confeſſion?</p>
+               <p>
+                  <hi>A.</hi> That we ſeriouſly examine our Conſciences. 2. To be hearti<g ref="char:EOLhyphen"/>ly ſorry for our ſins. 3. To confeſs them faithfully to the Prieſt, with a firm purpoſe to amend.</p>
+               <p>Q. <hi>What if a man knowingly leave out any one mortal ſin?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> He commits a great ſacri<g ref="char:EOLhyphen"/>ledge by lying to the <hi>Holy Ghoſt,</hi> and makes his whole Confeſſion nothing worth.</p>
+               <p>Q. <hi>What is Indulgence?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Not leave to commit ſin, or a pardon for ſins (as <hi>Proteſtants</hi>
+                  <pb n="57" facs="tcp:152159:31"/>ſlander) but only a releaſing of temporal puniſhments due to ſuch ſins as are already forgiven us by Contrition and Confeſſion.</p>
+            </div>
+            <div type="part">
+               <head>Extream <g ref="char:V">Ʋ</g>nction expounded.</head>
+               <p>Q. <hi>WHat warrant have you for this</hi> Sacrament?</p>
+               <p>
+                  <hi>A.</hi> In the 5th. of S. <hi>James</hi> v. 13. we read, <hi>Is any man ſick amongſt you, let him bring in the Prieſts of the Church, and let them pray over him, annointing him with Oyle in the Name of our Lord, and the prayer of Faith ſhall ſave the ſick man, and our Lord will lift him up, and if he be in ſins, his ſins ſhall be forgiven him.</hi>
+               </p>
+               <p>Q. <hi>Who is capable of this</hi> Sacra<g ref="char:EOLhyphen"/>ment?</p>
+               <p>
+                  <hi>A.</hi> Every <hi>Chriſtian</hi> that is in mor<g ref="char:EOLhyphen"/>tal
+<pb n="58" facs="tcp:152159:32"/>danger of death by ſickneſs, ex<g ref="char:EOLhyphen"/>cept infants, fools and ſuch as art alwayes mad.</p>
+               <p>Q. <hi>What is the Matter of this Sacrament?</hi>
+               </p>
+               <p>A. <hi>Oyle bleſſed by the Biſhop.</hi>
+               </p>
+               <p>Q. <hi>What is the form of it?</hi>
+               </p>
+               <p>A. By <hi>that annoyling, and h<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> own moſt pious mercy let our Lord pardon thee, whatſoever thou haſt ſin<g ref="char:EOLhyphen"/>ned by thy ſeeing,</hi> &amp;c. and ſo of all the other ſenſes.</p>
+               <p>Q. <hi>What are the effects of thi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Sacrament?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It comforts the ſoul in her laſt agony againſt diſpair, it re<g ref="char:EOLhyphen"/>mits venial ſin, and the reliques of ſin, and reſtoreth health, if it be ex<g ref="char:EOLhyphen"/>pedient.</p>
+            </div>
+            <div type="part">
+               <head>Holy Order Expounded.</head>
+               <p>Q. <hi>WHen did Chriſt Ordain this</hi> Sacrament?</p>
+               <p>
+                  <hi>A.</hi> At his laſt Supper, where he
+<pb n="59" facs="tcp:152159:32"/>made his <hi>Apoſtles, Prieſts,</hi> ſaying, <hi>Do ye this in remembrance of me,</hi> St. Luke 22. v. 19.</p>
+               <p>Q. <hi>What did he then give them power to do?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> To conſecrate and offer the <hi>unbloody Sacrifice of his own body and blood</hi> which he had there or<g ref="char:EOLhyphen"/>dained, and offered under the out<g ref="char:EOLhyphen"/>ward likeneſs of Bread and Wine.</p>
+               <p>Q. <hi>Why did he ſay for</hi> a comme<g ref="char:EOLhyphen"/>moration of me?</p>
+               <p>
+                  <hi>A.</hi> Becauſe the unbloody <hi>Sacri<g ref="char:EOLhyphen"/>fice</hi> of the <hi>Maſs</hi> is a commemora<g ref="char:EOLhyphen"/>tion of the <hi>bloody Sacrifice</hi> made on the Croſs.</p>
+               <p>Q. <hi>What are the effects of holy Order?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It gives men power to con<g ref="char:EOLhyphen"/>ſecrate the body and blood of Chriſt to adminiſter the Sacra<g ref="char:EOLhyphen"/>ments, and to preach.</p>
+               <p>Q. <hi>What ſin is it therefore to op<g ref="char:EOLhyphen"/>poſe the Government of</hi> Biſhops?</p>
+               <pb n="60" facs="tcp:152159:33"/>
+               <p>
+                  <hi>A.</hi> A ſin of Rebellion againſt the peace and ſafety of Gods Church; for Chriſt hath appoint<g ref="char:EOLhyphen"/>ed Biſhops to be Guards and Tea<g ref="char:EOLhyphen"/>chers of his Law.</p>
+            </div>
+            <div type="part">
+               <head>Matrimony expounded.</head>
+               <p>Q. <hi>VVHere did</hi> Chriſt <hi>ordain this</hi> Sacrament?</p>
+               <p>
+                  <hi>A.</hi> Either at the wedding of <hi>Ca<g ref="char:EOLhyphen"/>na</hi> in <hi>Galilee.</hi> S. <hi>John</hi> ch. 2. or when he ſaid, <hi>Now therefore are not two, but one fleſh, That which God hath joyned together, let no man ſeperate,</hi> S. Mat. 9. v. 6.</p>
+               <p>Q. <hi>How prove you</hi> Marriage <hi>to be a</hi> Sacrament?</p>
+               <p>
+                  <hi>A.</hi> Out of St. <hi>Paul: This is a great</hi> Sacrament, <hi>but I ſay in Chriſt, and in the</hi> Church, Ep. 5. v. 32.</p>
+               <p>Q. <hi>What is the matter of this</hi> Sa<g ref="char:EOLhyphen"/>crament?</p>
+               <p>
+                  <hi>A.</hi> The mutual conſent of the parties, and delivery of their bo<g ref="char:EOLhyphen"/>dies.</p>
+               <pb n="61" facs="tcp:152159:33"/>
+               <p>Q. <hi>What is the form of it?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The words or ſigns which ſignifie the ſaid preſent conſents.</p>
+               <p>Q. <hi>What are the effects of</hi> Ma<g ref="char:EOLhyphen"/>trimony?</p>
+               <p>
+                  <hi>A.</hi> It gives ſpecial grace to the material couple to love, be faith<g ref="char:EOLhyphen"/>ful, and bear with one another, as alſo to bring up their Children in the fear of God.</p>
+               <p>Q. <hi>How great is the bond of</hi> Marriage?</p>
+               <p>
+                  <hi>A.</hi> So great, that it can never be broken, but by death.</p>
+            </div>
+         </div>
+         <div n="12" type="chapter">
+            <head>
+               <hi>CHAP. XII.</hi> The Cardinal Virtues.</head>
+            <p>Q. <hi>HOw many</hi> Cardinal Vertues <hi>be there?</hi>
+            </p>
+            <p>A. 1. <hi>Prudence,</hi> 2. <hi>Juſtice,</hi> 3. <hi>For<g ref="char:EOLhyphen"/>titude,</hi> 4. <hi>Temperance:</hi> and they are called Cardinal-Vertues, be<g ref="char:EOLhyphen"/>cauſe they are the fountains, and as it were the hinges of all moral good works.</p>
+            <div type="part">
+               <pb n="62" facs="tcp:152159:34"/>
+               <head>The gifts of the Holy Ghoſt.</head>
+               <p>Q. <hi>WHat, &amp; how many are th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Gifts of the</hi> Holy Ghoſt?</p>
+               <p>
+                  <hi>A.</hi> Seven, 1. <hi>Wiſdom,</hi> 2. <hi>
+                     <g ref="char:V">Ʋ</g>nder<g ref="char:EOLhyphen"/>ſtanding,</hi> 3. <hi>Counſel,</hi> 4. <hi>Fortitude</hi> 5. <hi>Knowledge,</hi> 6. <hi>Piety,</hi> 7. <hi>The fear of our Lord.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>The Fruits of the Holy Ghoſt.</head>
+               <p>Q. <hi>HOw many are the Fruits of the Holy Ghoſt?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> They are in number twelve, 1. <hi>Charity,</hi> 2. <hi>Joy,</hi> 3. <hi>Peace,</hi> 4. <hi>Pa<g ref="char:EOLhyphen"/>tience,</hi> 5. <hi>Longanimity,</hi> 6. <hi>Good<g ref="char:EOLhyphen"/>neſs,</hi> 7. <hi>Benignity,</hi> 8. <hi>Mildneſs,</hi> 9. <hi>Fidelity,</hi> 10. <hi>Modeſty,</hi> 11. <hi>Con<g ref="char:EOLhyphen"/>tinency,</hi> 12. <hi>Charity.</hi> Gal 5.</p>
+            </div>
+         </div>
+         <div n="13" type="chapter">
+            <head>
+               <hi>CHAP. XIII.</hi> The works of Mercy Corporal and S<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iritual.</head>
+            <p>Q. <hi>HOw many are the works of mercy corporal?</hi>
+            </p>
+            <p>A. Seven, 1. <hi>To feed the Hungry,</hi> 2. <hi>To give drink to the Thirſty,</hi> 3. <hi>To
+<pb n="63" facs="tcp:152159:34"/>cloath the Nak<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g> To harbour the Harbourleſs,</hi> 5. <hi>To viſit the Sick,</hi> 6. <hi>To viſit the Impriſoned,</hi> 7. <hi>To bury the dead.</hi>
+            </p>
+            <p>Q. <hi>How prove you theſe works to be meritorious of a reward?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe, <hi>he that giveth a cup of cold water only to a Diſciple, in the name of a Diſciple, he ſhall in no wiſe loſe his reward,</hi> Mat. 10. And Chriſt hath promiſed Heaven as a reward to ſuch as do theſe things, S. <hi>Mat.</hi> c. 25. v. 35.</p>
+            <p>Q. <hi>How many are the works of</hi> Mercy ſpiritual?</p>
+            <p>
+               <hi>A.</hi> Seven alſo. 1. <hi>To give coun<g ref="char:EOLhyphen"/>ſel to the Doubtful,</hi> 2. <hi>To inſtruct the Ignorant,</hi> 3. <hi>To admoniſh Sin<g ref="char:EOLhyphen"/>ners,</hi> 4. <hi>To comfort the Afflicted,</hi> 5. <hi>To forgive offences,</hi> 6. <hi>To bear patiently the troubleſome.</hi> 7. <hi>To pray for the quick and the dead.</hi>
+            </p>
+            <pb n="64" facs="tcp:152159:35"/>
+            <p>Q. <hi>Is it lawful to pray for the dead?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes, <hi>It is a wholeſome and a holy cogitation, to pray for the dead: that they may be looſed from their ſins,</hi> Machab. 12.</p>
+            <p>Q. <hi>Is there alſo a reward give to theſe works?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes, <hi>For they who inſtruct o<g ref="char:EOLhyphen"/>thers unto Juſtice, ſhall ſhine lik<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſtars for all Eternity,</hi> Dan. 12. ver. 2.</p>
+            <div type="part">
+               <head>The eight Beatitudes.</head>
+               <p>Q. <hi>WHat are the eight Beati<g ref="char:EOLhyphen"/>tudes?</hi>
+               </p>
+               <p>A. <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>over<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> of ſpirit.</hi> 2. <hi>Meek<g ref="char:EOLhyphen"/>neſs. <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> M<gap reason="illegible" resp="#MURP" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ning</hi> 4. <hi>To Hunge<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> and Thirſt af<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uſtic<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> 5. <hi>Mer<g ref="char:EOLhyphen"/>cifulneſs.</hi> 6. <hi>Cleanneſs of heart</hi> 7. <hi>T <gap reason="illegible" resp="#MURP" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Peace-makers.</hi> 8. <hi>To ſuffe<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Perſecution for juſtice-ſake.</hi>
+               </p>
+            </div>
+         </div>
+         <div n="14" type="chapter">
+            <pb n="65" facs="tcp:152159:35"/>
+            <head>CHAP. XIV.</head>
+            <p>Q. <hi>HOw many kinds of ſin be there?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Two, <hi>Original ſin, &amp; actual ſin.</hi>
+            </p>
+            <p>Q. <hi>What is Original ſin?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is want of Original Juſtice, which we are all born in, by means of <hi>Adams</hi> fall.</p>
+            <p>Q. <hi>How is</hi> Original ſin <hi>remitted?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By Baptiſme.</p>
+            <p>Q. <hi>Whither go</hi> Infants, <hi>who dye without Baptiſme</hi> in Original ſin?</p>
+            <p>
+               <hi>A.</hi> To the upper part of Hell, where they feel no pain of ſenſe, but ſhall never ſee the Face of God.</p>
+            <p>Q. <hi>What is actual ſin?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is thought, word, or deed, contrary to the word of God.</p>
+            <p>Q. <hi>What is a ſin of</hi> Omiſſion?</p>
+            <p>
+               <hi>A.</hi> To omit any thing willingly,
+<pb n="66" facs="tcp:152159:36"/>which is commanded us; by <hi>God</hi> or his <hi>Church.</hi>
+            </p>
+            <p>Q. <hi>How is</hi> actual ſin <hi>divided?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Into mortal ſin, and venial ſin.</p>
+            <p>Q. <hi>What is</hi> mortal <hi>ſin?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Any great offence againſt the Charity of God or our Neighbour.</p>
+            <p>Q. <hi>What is</hi> venial <hi>ſin?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> A ſmall and very pardona<g ref="char:EOLhyphen"/>ble offence againſt God, or our Neighbour.</p>
+            <p>Q. <hi>How is</hi> mortal ſin remitted?</p>
+            <p>
+               <hi>A.</hi> By hearty Contrition and Penance.</p>
+            <p>Q. <hi>How is</hi> venial ſin remitted?</p>
+            <p>
+               <hi>A.</hi> By all the Sacraments, by de<g ref="char:EOLhyphen"/>vout Prayer, <hi>holy water,</hi> &amp; the like.</p>
+            <p>Q. <hi>Whither go ſuch as dye in mortal ſin?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> To Hell for all Eternity.</p>
+            <p>Q. <hi>Whither go ſuch as dye in</hi> venial <hi>ſin, or not having fully ſatisfied for the puniſhments due unto their</hi> mor<g ref="char:EOLhyphen"/>tal <hi>ſines.</hi>
+            </p>
+            <pb n="67" facs="tcp:152159:36"/>
+            <p>
+               <hi>A.</hi> To Purgatory, till they have made full ſatisfaction for them, and then to Heaven.</p>
+            <p>Q. <hi>How know you there is a</hi> Pur<g ref="char:EOLhyphen"/>gatory?</p>
+            <p>
+               <hi>A. Becauſe when the Day of our Lord ſhall come</hi> (that is the day of our death) <hi>the Work of every one of what kind it is, the fire ſhall try,</hi> &amp;c. <hi>If any mans work burns</hi> (as theirs do who go to Purgatory) <hi>he ſhall ſuf<g ref="char:EOLhyphen"/>fer hurt, but himſelf ſhall be ſaved, yet ſo as by fire,</hi> 1 Cor. 3. ver. 14, 15.</p>
+            <p>Q. <hi>How many wayes may a man be made partaker, and guilty of ano<g ref="char:EOLhyphen"/>thers ſin?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Nine wayes. 1. <hi>By Coun<g ref="char:EOLhyphen"/>ſelling it,</hi> 2. <hi>By commending it,</hi> 3. <hi>By conſenting to it.</hi> 4. <hi>By provo<g ref="char:EOLhyphen"/>king him to it,</hi> 5. <hi>By praiſing or flat<g ref="char:EOLhyphen"/>tering him for it,</hi> 6. <hi>By not ſpeaking when he ought to ſpeak,</hi> 7. <hi>By winking
+<pb n="68" facs="tcp:152159:37"/>at it.</hi> 8. <hi>By being a partner with him in the fact.</hi> 9. <hi>By defending the ill done.</hi>
+            </p>
+         </div>
+         <div n="15" type="chapter">
+            <head>
+               <hi>CHAP. XV.</hi> The ſeven deadly or capital ſins.</head>
+            <p>Q. <hi>HOw call you the ſeven capi<g ref="char:EOLhyphen"/>tal ſins?</hi>
+            </p>
+            <p>A. 1. <hi>Pride.</hi> 2. <hi>Covetouſneſs.</hi> 3. <hi>Lechery.</hi> 4. <hi>Anger.</hi> 5. <hi>Glut<g ref="char:EOLhyphen"/>tony.</hi> 6. <hi>Envy.</hi> 7. <hi>Sloath.</hi>
+            </p>
+            <p>Q. <hi>What is</hi> Pride?</p>
+            <p>
+               <hi>A.</hi> An inordinate deſire of our own worth and eſteem.</p>
+            <p>Q. <hi>What is</hi> Covetouſneſs?</p>
+            <p>
+               <hi>A.</hi> An mordinate deſire of riches.</p>
+            <p>Q. <hi>What is</hi> 
+               <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>chery?</p>
+            <p>
+               <hi>A.</hi> An inordinate deſire of car<g ref="char:EOLhyphen"/>nal pleaſure.</p>
+            <p>Q. <hi>What is</hi> Anger?</p>
+            <p>
+               <hi>A.</hi> An inordinate deſire of re<g ref="char:EOLhyphen"/>venge.</p>
+            <p>Q. <hi>What is</hi> Gluttony?</p>
+            <p>
+               <hi>A.</hi> An inordinate deſire or uſe of meat &amp; drink.</p>
+            <pb n="69" facs="tcp:152159:37"/>
+            <p>Q. <hi>What is</hi> Envy?</p>
+            <p>
+               <hi>A.</hi> A ſadneſs, or repining at a<g ref="char:EOLhyphen"/>nothers good, becauſe it ſeems to leſſen our own.</p>
+            <p>Q. <hi>What is</hi> Sloath?</p>
+            <p>
+               <hi>A.</hi> A laſineſs of mind, neglect<g ref="char:EOLhyphen"/>ing to begin or proſecute good things.</p>
+            <div type="part">
+               <head>The ſins againſt the Holy Ghoſt.</head>
+               <p>Q. <hi>HOw many be the ſins againſt the Holy Ghoſt?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Six, 1. <hi>Deſpair of Salvati<g ref="char:EOLhyphen"/>on.</hi> 2. <hi>Preſumption of Gods mercy.</hi> 3. <hi>To impugne the known truth.</hi> 4. <hi>Envy at anothers ſpiritual good.</hi> 5. <hi>Obſtinacy in ſin..</hi> 6. <hi>Final Impe<g ref="char:EOLhyphen"/>nitence.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>The ſins that cry to Heaven for Ven<g ref="char:EOLhyphen"/>geance.</head>
+               <p>Q. <hi>HOw many ſuch ſins be there?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Four. 1. <hi>Wilful Mur<g ref="char:EOLhyphen"/>ther.</hi> 2. <hi>Sin of</hi> Sodom. 3. <hi>Oppreſſion of the Poor.</hi> 5. <hi>To defraud work-men of their wages.</hi>
+               </p>
+            </div>
+         </div>
+         <div n="16" type="chapter">
+            <pb n="70" facs="tcp:152159:38"/>
+            <head>
+               <hi>CHAP. XVI.</hi> The four laſt things Expounded.</head>
+            <p>Q. <hi>WHat be the</hi> four laſt things?</p>
+            <p>A. <hi>Death, Judgment, Hell and Heaven.</hi>
+            </p>
+            <p>Q. <hi>What mean you by Death?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That we are all mortal, and muſt once dye, how ſoon, we are uncertain, and therefore ſhould be alwayes prepared for it.</p>
+            <p>Q. <hi>What is the beſt preparative for a good Death?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> A good life, and to be often doing Penance for our ſins, and ſaying with St. <hi>Paul, I deſire to be diſſolved, and be with Chriſt,</hi> Phil. 1. v. 13.</p>
+            <p>Q. <hi>What underſtand you by</hi> Judgement?</p>
+            <p>
+               <hi>A.</hi> That beſides the General Judgement of the World, our ſouls as ſoon as they be dead, ſhall re<g ref="char:EOLhyphen"/>ceive
+<pb n="71" facs="tcp:152159:38"/>their particular Judgment, at the Tribunal of Chriſt.</p>
+            <p>Q. <hi>How muſt we prepare our ſelves againſt this</hi> Judgment?</p>
+            <p>
+               <hi>A.</hi> By often remembring, <hi>that it is a terrible thing to fall into the hands of the living God,</hi> Heb. 10. v. 31.</p>
+            <p>Q. <hi>What mean you by Hell?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> I mean, that ſuch as dye guilty of mortal ſin, ſhall be tor<g ref="char:EOLhyphen"/>mented there for ever and ever, <hi>Apoc.</hi> 20. v. 10.</p>
+            <p>Q <hi>What underſtand you by</hi> Heaven?</p>
+            <p>
+               <hi>A.</hi> I underſtand that the choſen and faithful ſervants of God, who dye in ſtate of grace ſhall live with him for ever in his Kingdom.</p>
+            <p>Q. <hi>What benefit have we by the fre<g ref="char:EOLhyphen"/>quent me mory of theſe laſt things?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Very great benefit. <hi>In all thy works remember thy laſt things, and thou ſhalt never ſin,</hi> Eccleſ. 7. v. 40.</p>
+         </div>
+         <div type="prayer">
+            <pb n="72" facs="tcp:152159:39"/>
+            <head>Grace before Meat.</head>
+            <p>BLeſs ye, <hi>Reſp.</hi> Our Lord.</p>
+            <p>
+               <hi>Let us pray.</hi>
+            </p>
+            <p>BLeſs us, our Lord, and theſe thy gifts which we are to re<g ref="char:EOLhyphen"/>ceive of thy bounty through <hi>Chriſt</hi> our Lord. <hi>Reſp.</hi> AMEN.</p>
+         </div>
+         <div type="prayer">
+            <head>Grace after Meat.</head>
+            <p>PRaiſe we our Lord.</p>
+            <p>
+               <hi>Reſp.</hi> Thanks be to God.</p>
+            <p>
+               <hi>Let us Pray.</hi>
+            </p>
+            <p>WE give thee thanks, O Al<g ref="char:EOLhyphen"/>mighty God, for all th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> benefits, who liveſt and reigneſt world without end. <hi>Reſp.</hi> Amen.</p>
+            <p>
+               <hi>Verſ.</hi> And let the ſouls of the faithful, through the mercy o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> God, reſt in peace. <hi>Reſp.</hi> Amen.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
